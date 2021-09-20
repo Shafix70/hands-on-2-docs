@@ -96,6 +96,8 @@ class HDMolecule:
 
 
 def analyze_N2(distance):
+    
+    """This is the dicription for this function"""
 
     N2 = HDMolecule("N", distance)
 
